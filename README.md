@@ -1,11 +1,8 @@
-Bienvenue dans Book Manager, une application console développée en C# pour gérer une bibliothèque personnelle. Cette application permet d'ajouter, modifier, supprimer et lister les livres de manière intuitive. Parfait pour les amoureux de la lecture ! 📖
+Bienvenue dans Book Manager, une application console développée en C# pour gérer une bibliothèque personnelle. Cette application permet d'ajouter, modifier, supprimer et lister les livres de manière intuitive 📖
 
 🎯 Fonctionnalités
 
 ➕ Ajouter un livre : Enregistrer un nouveau livre en indiquant le titre, l'auteur, l'année de publication et le genre.
-
-📝 Modifier un livre : Mettre à jour les informations d'un livre existant.
-
 
 🗑️ Supprimer un livre : Retirer un livre de la bibliothèque.
 
@@ -17,7 +14,7 @@ Bienvenue dans Book Manager, une application console développée en C# pour gé
 
 Clonez ce dépôt sur votre machine locale.
 
-git clone https://github.com/ton-utilisateur/book-manager.git
+git clone https://github.com/Fenerz07/BookManager
 
 Ouvrez le projet dans Visual Studio (ou un autre IDE compatible avec C#).
 
